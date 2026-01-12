@@ -1,6 +1,8 @@
 ## About Me
 
-Hey, I’m Tejas — a developer and product-builder passionate about building at the intersection of AI, startups, and full-stack development. I’ve led ventures like Hack United and Feared Media, published a book on influential leaders, and built award-winning AI projects recognized by Y Combinator, MLH, and multiple grant programs. I’m a 12x hackathon winner who enjoys turning ambitious ideas into real, high-impact products. Please note that most of my repositories are private due to active building.
+Hey, I’m Tejas — a developer and product-builder passionate about building at the intersection of AI, startups, and full-stack development. I’ve led ventures like Hack United and Feared Media, published a book on influential leaders, and built award-winning AI projects recognized by Y Combinator, MLH, and multiple grant programs. 
+
+I’m a 12x hackathon winner who enjoys turning ambitious ideas into real, high-impact products. Please note that most of my repositories are private due to active building.
 
 I enjoy meeting new people and am always open to meaningful collaborations and opportunities (Summer 2026).
 - https://www.linkedin.com/in/tejas-chakrapani/
