@@ -1,6 +1,6 @@
 ## About Me
 
-Hey, I’m Tejas — a developer and product-builder passionate about building at the intersection of AI, startups, and full-stack development. I’ve led ventures like Hack United and Feared Media, published a book on influential leaders, and built award-winning AI projects recognized by Y Combinator, MLH, and multiple grant programs. 
+Hey, I’m **Tejas** — a developer and product-builder passionate about building at the intersection of AI, startups, and full-stack development. I’ve led ventures like Hack United and Feared Media, published a book on influential leaders, and built award-winning AI projects recognized by Y Combinator, MLH, and multiple grant programs. 
 
 I’m a 12x hackathon winner who enjoys turning ambitious ideas into real, high-impact products. Please note that most of my repositories are private due to active building.
 
@@ -9,7 +9,7 @@ I enjoy meeting new people and am always open to meaningful collaborations and o
 - https://x.com/tejas7c
 - tejas@hackunited.org
 
-Current: Onbo AI (useonbo.com), O-1 visa profiling agents (60+ customers).
+**Current**: Onbo AI (https://useonbo.com), O-1 visa profiling agents (60+ customers).
 ## Skills 
 [![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat&logo=typescript&logoColor=3178C6)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=3776AB)](https://www.python.org/) [![Java](https://img.shields.io/badge/Java-111111?style=flat&logo=openjdk&logoColor=ED8B00)](https://www.oracle.com/java/) [![C](https://img.shields.io/badge/C-111111?style=flat&logo=c&logoColor=A8B9CC)](https://www.learn-c.org/) [![C++](https://img.shields.io/badge/C++-111111?style=flat&logo=c%2B%2B&logoColor=00599C)](https://www.cplusplus.com/) [![HTML5](https://img.shields.io/badge/HTML5-111111?style=flat&logo=html5&logoColor=E34F26)](https://www.w3.org/TR/html52/) [![CSS3](https://img.shields.io/badge/CSS3-111111?style=flat&logo=css3&logoColor=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html) [![SQL](https://img.shields.io/badge/SQL-111111?style=flat&logo=postgresql&logoColor=4169E1)](https://www.postgresql.org/)
 [![React](https://img.shields.io/badge/React-111111?style=flat&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat&logo=next.js&logoColor=white)](https://nextjs.org/) [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-111111?style=flat&logo=tailwindcss&logoColor=38B2AC)](https://tailwindcss.com/) [![React Native](https://img.shields.io/badge/React_Native-111111?style=flat&logo=react&logoColor=61DAFB)](https://reactnative.dev/) [![Expo](https://img.shields.io/badge/Expo-111111?style=flat&logo=expo&logoColor=white)](https://expo.dev/) [![Vite](https://img.shields.io/badge/Vite-111111?style=flat&logo=vite&logoColor=646CFF)](https://vitejs.dev/)
